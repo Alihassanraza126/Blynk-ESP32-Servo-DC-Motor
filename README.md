@@ -6,6 +6,11 @@ This project allows you to control a DC Motor (bi-directional) and a Servo motor
   <img src="Circuit%20Diagram_bb.jpg" alt="Circuit Diagram" width="800">
 </p>
 
+### Hardware Setup
+<p align="center">
+  <img src="Attachment_1645643096.jpeg" alt="Hardware Setup" width="800">
+</p>
+
 ## 🛠 Hardware Components
 * ESP32 Development Board
 * Servo Motor (e.g., SG90 or MG995) connected to GPIO 5
